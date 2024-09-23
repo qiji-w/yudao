@@ -23,3 +23,6 @@
 | Prettier                      | 代码格式化                  |
 | ESLint                        | 脚本代码检查                |
 | DotENV                        | env 文件高亮                |
+
+### 芋道源码
+![功能](http://dashboard-vue3.yudao.iocoder.cn/login?redirect=/index)
